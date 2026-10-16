@@ -1,6 +1,6 @@
 # HVAC Plant Operation & Performance Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents a practical study and engineering analysis of the **centralized chilled-water HVAC system at IIT Indore**.
 
@@ -10,7 +10,7 @@ The system serves major campus buildings including the **Library, Admin Building
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand the complete working of a centralized chilled-water HVAC system.
 * Study the refrigeration cycle inside the chiller.
@@ -23,7 +23,7 @@ The system serves major campus buildings including the **Library, Admin Building
 
 ---
 
-## 🏭 System Studied
+##  System Studied
 
 The HVAC plant uses a **centralized chilled-water cooling system**.
 
@@ -39,7 +39,7 @@ The system uses **R-410A and R-134A refrigerants** in the studied refrigeration 
 
 ---
 
-# 🔄 1. Refrigeration Cycle
+# 1. Refrigeration Cycle
 
 The refrigeration cycle consists of four major processes:
 
@@ -67,7 +67,7 @@ The chilled-water supply temperature is approximately **7°C**, while return wat
 
 ---
 
-# 🌡️ 2. Evaporator LMTD Calculation
+#  2. Evaporator LMTD Calculation
 
 For the evaporator:
 
@@ -93,7 +93,7 @@ This gives an approximate evaporator LMTD of **4°C**.
 
 ---
 
-# 🔥 3. Condenser LMTD
+# 3. Condenser LMTD
 
 For the condenser:
 
@@ -110,7 +110,7 @@ The condenser LMTD was therefore approximately **7.2°C**.
 
 ---
 
-# 💧 4. Condenser Water & Cooling Tower Loop
+#  4. Condenser Water & Cooling Tower Loop
 
 The condenser-water loop transfers heat rejected by the chiller to the cooling tower.
 
@@ -135,7 +135,7 @@ The studied operating range was approximately:
 
 ---
 
-# 💦 5. Chilled-Water System
+#  5. Chilled-Water System
 
 The chilled-water system consists of two major loops:
 
@@ -179,7 +179,7 @@ Chiller Evaporator
 
 ---
 
-# 🌬️ 6. Air-Side Cycle
+# 6. Air-Side Cycle
 
 The AHU transfers cooling from chilled water to the building air.
 
@@ -213,7 +213,7 @@ The studied air-side parameters included:
 
 ---
 
-# ⚙️ 7. AHU Analysis
+#  7. AHU Analysis
 
 The AHU study covered the following sections:
 
@@ -247,7 +247,7 @@ The pre-filters were designed to capture particles down to approximately **10 μ
 
 ---
 
-# 📊 8. Key Parameters
+#  8. Key Parameters
 
 | Parameter                      | Studied Value |
 | ------------------------------ | ------------: |
@@ -264,7 +264,7 @@ The pre-filters were designed to capture particles down to approximately **10 μ
 
 ---
 
-# 🧮 9. Engineering Analysis
+# 9. Engineering Analysis
 
 The project involved understanding and applying heat-transfer and HVAC engineering concepts including:
 
@@ -283,7 +283,7 @@ The study connected the theoretical refrigeration and heat-transfer concepts wit
 
 ---
 
-# 🔧 10. Major Components Studied
+#  10. Major Components Studied
 
 * Chillers
 * Compressors
@@ -304,7 +304,7 @@ The study connected the theoretical refrigeration and heat-transfer concepts wit
 
 ---
 
-# 📈 11. Engineering Takeaways
+#  11. Engineering Takeaways
 
 ### Refrigeration
 
@@ -328,7 +328,7 @@ Understood how chilled water removes heat from return air through the cooling co
 
 ---
 
-# 🏢 HVAC System Flow
+#  HVAC System Flow
 
 ```text
                     REFRIGERATION LOOP
@@ -364,7 +364,7 @@ Understood how chilled water removes heat from return air through the cooling co
 
 ---
 
-# 🛠️ Tools & Concepts
+#  Tools & Concepts
 
 ### Engineering Concepts
 
@@ -385,7 +385,7 @@ Understood how chilled water removes heat from return air through the cooling co
 
 ---
 
-# 📚 Project Scope
+#  Project Scope
 
 This project was primarily a **practical HVAC plant study and engineering analysis**. It focused on understanding the operation and interaction of the major HVAC components and applying thermodynamics, heat-transfer, and fluid-flow concepts to the observed system.
 
@@ -393,7 +393,7 @@ No CFD or detailed numerical HVAC simulation is claimed as part of this project.
 
 ---
 
-## 👨‍🔧 Project Information
+##  Project Information
 
 **Project:** HVAC Plant Operation & Performance Analysis
 **Location:** IIT Indore Campus
